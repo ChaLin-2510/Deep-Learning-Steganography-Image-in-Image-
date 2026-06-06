@@ -1,4 +1,4 @@
-# Deep-Learning-Steganography-Image-in-Image-
+# Deep-Learning-Steganography-Image-in-Image
 ### 🧑 Thực hiện:
 - Lâm Quốc Chung – 20120258  
 - Lâm Duy Thiên  - 20120192
